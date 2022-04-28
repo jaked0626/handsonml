@@ -109,6 +109,6 @@ dmypy.json
 *.DS_Store
 
 # textbook
-textbook/*
+textbook
 *.pdf
-handson-ml2/*
+handson-ml2
